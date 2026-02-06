@@ -625,6 +625,47 @@ namespace PeanutButter.Utils
         }
 
         /// <summary>
+        /// Finds all unique properties for all implemented interfaces
+        /// </summary>
+        /// <param name="type"></param>
+        /// <returns></returns>
+        public static PropertyInfo[] GetAllInterfaceProperties(
+            this Type type
+        )
+        {
+            return type.GetAllInterfaceProperties(false);
+        }
+
+        /// <summary>
+        /// Finds all properties for all implemented interfaces
+        /// </summary>
+        /// <param name="type"></param>
+        /// <param name="includeAll">
+        /// when set True, properties with the same name and type implemented
+        /// on multiple interfaces will all be returned; when false, only the
+        /// top-most one is returned</param>
+        /// <returns></returns>
+        public static PropertyInfo[] GetAllInterfaceProperties(
+            this Type type,
+            bool includeAll
+        )
+        {
+            var result = new List<PropertyInfo>();
+            foreach (var iface in type.GetAllImplementedInterfaces())
+            {
+                result.AddRange(iface.GetProperties());
+                foreach (var prop in iface.GetProperties())
+                {
+                    if (includeAll || result.None(p => p.Name == prop.Name && p.PropertyType == prop.PropertyType))
+                    {
+                        result.Add(prop);
+                    }
+                }
+            }
+            return result.ToArray();
+        }
+
+        /// <summary>
         /// Tests if a type implements IDisposable
         /// </summary>
         /// <param name="t">Type to test</param>
