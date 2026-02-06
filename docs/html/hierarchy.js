@@ -164,6 +164,7 @@ var hierarchy =
         [ "PeanutButter.Utils.UnevenZipException< T1, T2 >", "classPeanutButter_1_1Utils_1_1UnevenZipException-2-g.html", null ]
       ] ],
       [ "PeanutButter.WindowsServiceManagement.Exceptions.WindowsServiceUtilException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1WindowsServiceUtilException.html", [
+        [ "PeanutButter.WindowsServiceManagement.Exceptions.ServiceNotInstalledException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceNotInstalledException.html", null ],
         [ "PeanutButter.WindowsServiceManagement.Exceptions.ServiceOperationException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceOperationException.html", null ]
       ] ],
       [ "PeanutButter.WindowsServiceManagement.ServiceControlException", "classPeanutButter_1_1WindowsServiceManagement_1_1ServiceControlException.html", null ]
@@ -173,6 +174,7 @@ var hierarchy =
     [ "PeanutButter.Utils.ExtensionsForIEnumerables", "classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html", null ],
     [ "PeanutButter.Utils.Find", "classPeanutButter_1_1Utils_1_1Find.html", null ],
     [ "PeanutButter.Utils.FlagExtensions", "classPeanutButter_1_1Utils_1_1FlagExtensions.html", null ],
+    [ "PeanutButter.Utils.FlexiConstructor", "classPeanutButter_1_1Utils_1_1FlexiConstructor.html", null ],
     [ "PeanutButter.Utils.FluencyExtensions", "classPeanutButter_1_1Utils_1_1FluencyExtensions.html", null ],
     [ "PeanutButter.TestUtils.AspNetCore.Utils.FormFileExtensions", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Utils_1_1FormFileExtensions.html", null ],
     [ "PeanutButter.DuckTyping.Extensions.FuzzyDictionaryExtensions", "classPeanutButter_1_1DuckTyping_1_1Extensions_1_1FuzzyDictionaryExtensions.html", null ],
@@ -477,6 +479,9 @@ var hierarchy =
     ] ],
     [ "IResponseCookies", null, [
       [ "PeanutButter.TestUtils.AspNetCore.Fakes.FakeResponseCookies", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Fakes_1_1FakeResponseCookies.html", null ]
+    ] ],
+    [ "IRouter", null, [
+      [ "PeanutButter.TestUtils.AspNetCore.Builders.TrivialRouter", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter.html", null ]
     ] ],
     [ "PeanutButter.MVC.IScriptBundle", "interfacePeanutButter_1_1MVC_1_1IScriptBundle.html", [
       [ "PeanutButter.MVC.ScriptBundleFacade", "classPeanutButter_1_1MVC_1_1ScriptBundleFacade.html", null ]

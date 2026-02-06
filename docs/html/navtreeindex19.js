@@ -1,5 +1,11 @@
 var NAVTREEINDEX19 =
 {
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ad03b2bc274ca481616f5c308b748e9b2":[2,0,0,15,0,11,3],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#adfbb5de1cc1e6a9b299bc40a6f4c2409":[1,0,0,15,0,11,15],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#adfbb5de1cc1e6a9b299bc40a6f4c2409":[2,0,0,15,0,11,15],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ae84e7a773a4756aaa160d69eed87d700":[1,0,0,15,0,11,4],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ae84e7a773a4756aaa160d69eed87d700":[2,0,0,15,0,11,4],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1ValidatingDictionary-2-g.html":[1,0,0,15,0,12],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1ValidatingDictionary-2-g.html":[2,0,0,15,0,12],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1ValidatingDictionary-2-g.html#a0e8366f779c8dd4b85198da96a14379b":[1,0,0,15,0,12,0],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1ValidatingDictionary-2-g.html#a0e8366f779c8dd4b85198da96a14379b":[2,0,0,15,0,12,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX19 =
 "classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a60e7f2a0bd1f370bab59399473ecda7e":[2,0,0,15,44,2],
 "classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a61631faa3a5e6f9fa19f008568502a32":[1,0,0,15,45,32],
 "classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a61631faa3a5e6f9fa19f008568502a32":[2,0,0,15,44,32],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a63d3419a9d016fd6b9b114c25b2d44f7":[1,0,0,15,45,26],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a63d3419a9d016fd6b9b114c25b2d44f7":[2,0,0,15,44,26],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a645944599d1a2be05a681f72a2085fa5":[1,0,0,15,45,34],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a645944599d1a2be05a681f72a2085fa5":[2,0,0,15,44,34],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a666b61de128aaca44868010cb21762fa":[1,0,0,15,45,81],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a666b61de128aaca44868010cb21762fa":[2,0,0,15,44,81],
-"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a6aaf9204b83026fe51abeeb40e910474":[1,0,0,15,45,14]
+"classPeanutButter_1_1Utils_1_1ExtensionsForIEnumerables.html#a63d3419a9d016fd6b9b114c25b2d44f7":[1,0,0,15,45,26]
 };

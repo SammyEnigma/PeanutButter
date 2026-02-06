@@ -28,9 +28,10 @@ var searchData=
   ['timebasedretrycontext_25',['TimeBasedRetryContext',['../classPeanutButter_1_1Utils_1_1TimeBasedRetryContext.html',1,'PeanutButter::Utils']]],
   ['timespanextensions_26',['TimeSpanExtensions',['../classPeanutButter_1_1Utils_1_1TimeSpanExtensions.html',1,'PeanutButter::Utils']]],
   ['transformingdictionary_2d2_2dg_27',['TransformingDictionary-2-g',['../classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html',1,'PeanutButter::Utils::Dictionaries']]],
-  ['tryanotherportexception_28',['TryAnotherPortException',['../classPeanutButter_1_1TempDb_1_1MySql_1_1Base_1_1TryAnotherPortException.html',1,'PeanutButter::TempDb::MySql::Base']]],
-  ['typeequalitytester_29',['TypeEqualityTester',['../classPeanutButter_1_1Utils_1_1TypeEqualityTester.html',1,'PeanutButter::Utils']]],
-  ['typeextensions_30',['TypeExtensions',['../classPeanutButter_1_1TestUtils_1_1Generic_1_1TypeExtensions.html',1,'PeanutButter.TestUtils.Generic.TypeExtensions'],['../classPeanutButter_1_1Utils_1_1TypeExtensions.html',1,'PeanutButter.Utils.TypeExtensions']]],
-  ['typefinder_31',['TypeFinder',['../classPeanutButter_1_1Utils_1_1TypeFinder.html',1,'PeanutButter::Utils']]],
-  ['typemaker_32',['TypeMaker',['../classPeanutButter_1_1DuckTyping_1_1Shimming_1_1TypeMaker.html',1,'PeanutButter::DuckTyping::Shimming']]]
+  ['trivialrouter_28',['TrivialRouter',['../classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter.html',1,'PeanutButter::TestUtils::AspNetCore::Builders']]],
+  ['tryanotherportexception_29',['TryAnotherPortException',['../classPeanutButter_1_1TempDb_1_1MySql_1_1Base_1_1TryAnotherPortException.html',1,'PeanutButter::TempDb::MySql::Base']]],
+  ['typeequalitytester_30',['TypeEqualityTester',['../classPeanutButter_1_1Utils_1_1TypeEqualityTester.html',1,'PeanutButter::Utils']]],
+  ['typeextensions_31',['TypeExtensions',['../classPeanutButter_1_1TestUtils_1_1Generic_1_1TypeExtensions.html',1,'PeanutButter.TestUtils.Generic.TypeExtensions'],['../classPeanutButter_1_1Utils_1_1TypeExtensions.html',1,'PeanutButter.Utils.TypeExtensions']]],
+  ['typefinder_32',['TypeFinder',['../classPeanutButter_1_1Utils_1_1TypeFinder.html',1,'PeanutButter::Utils']]],
+  ['typemaker_33',['TypeMaker',['../classPeanutButter_1_1DuckTyping_1_1Shimming_1_1TypeMaker.html',1,'PeanutButter::DuckTyping::Shimming']]]
 ];

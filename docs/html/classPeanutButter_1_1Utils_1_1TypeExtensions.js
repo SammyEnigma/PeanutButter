@@ -18,6 +18,8 @@ var classPeanutButter_1_1Utils_1_1TypeExtensions =
     [ "GetAllConstantValues", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#addf7b6ba83ab90d08679f4d9b2413561", null ],
     [ "GetAllConstantValues< T >", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a4067b7a64ba09e388e398898ecdcc974", null ],
     [ "GetAllImplementedInterfaces", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a45e43de30a9ff19596a0bd122037c35a", null ],
+    [ "GetAllInterfaceProperties", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a9c55de0e504c64322a3ee1c918601287", null ],
+    [ "GetAllInterfaceProperties", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a8ed5c6811f5f1cd533485d0aab4e0ddf", null ],
     [ "GetAssembly", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a9403ec73d64a6542fa36db57eb8a5e7c", null ],
     [ "GetCollectionItemType", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#a0b0b951db76fe466e8c7205f48b6f0af", null ],
     [ "GetStatic< T >", "classPeanutButter_1_1Utils_1_1TypeExtensions.html#aab8e5d558a34d4e9df3b696d1dc5edde", null ],

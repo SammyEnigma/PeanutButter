@@ -27,6 +27,7 @@ var namespacePeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders =
     [ "RequestCookieCollectionBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RequestCookieCollectionBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RequestCookieCollectionBuilder" ],
     [ "RouteDataBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RouteDataBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RouteDataBuilder" ],
     [ "StringMapDerivativeBuilder&lt; TBuilder, TInterface, TConcrete &gt;", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1StringMapDerivativeBuilder-3-g.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1StringMapDerivativeBuilder-3-g" ],
+    [ "TrivialRouter", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter" ],
     [ "ViewDataDictionaryBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1ViewDataDictionaryBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1ViewDataDictionaryBuilder" ],
     [ "OptionsAccessor", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1OptionsAccessor.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1OptionsAccessor" ],
     [ "WebSocketBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1WebSocketBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1WebSocketBuilder" ],

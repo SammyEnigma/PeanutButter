@@ -51,6 +51,7 @@ var namespacePeanutButter_1_1Utils =
     [ "FilePathResolver", "classPeanutButter_1_1Utils_1_1FilePathResolver.html", "classPeanutButter_1_1Utils_1_1FilePathResolver" ],
     [ "Find", "classPeanutButter_1_1Utils_1_1Find.html", "classPeanutButter_1_1Utils_1_1Find" ],
     [ "FlagExtensions", "classPeanutButter_1_1Utils_1_1FlagExtensions.html", "classPeanutButter_1_1Utils_1_1FlagExtensions" ],
+    [ "FlexiConstructor", "classPeanutButter_1_1Utils_1_1FlexiConstructor.html", "classPeanutButter_1_1Utils_1_1FlexiConstructor" ],
     [ "FluencyExtensions", "classPeanutButter_1_1Utils_1_1FluencyExtensions.html", "classPeanutButter_1_1Utils_1_1FluencyExtensions" ],
     [ "IBackoffStrategy", "interfacePeanutButter_1_1Utils_1_1IBackoffStrategy.html", "interfacePeanutButter_1_1Utils_1_1IBackoffStrategy" ],
     [ "InvalidEnvironmentVariableValue", "classPeanutButter_1_1Utils_1_1InvalidEnvironmentVariableValue.html", "classPeanutButter_1_1Utils_1_1InvalidEnvironmentVariableValue" ],
@@ -131,6 +132,12 @@ var namespacePeanutButter_1_1Utils =
     [ "WorkResult&lt; T &gt;", "classPeanutButter_1_1Utils_1_1WorkResult-1-g.html", "classPeanutButter_1_1Utils_1_1WorkResult-1-g" ],
     [ "WorkResult", "classPeanutButter_1_1Utils_1_1WorkResult.html", "classPeanutButter_1_1Utils_1_1WorkResult" ],
     [ "WorkResultExtensions", "classPeanutButter_1_1Utils_1_1WorkResultExtensions.html", "classPeanutButter_1_1Utils_1_1WorkResultExtensions" ],
+    [ "ConstructFlags", "namespacePeanutButter_1_1Utils.html#a6b2ec67188d9920966fe2aa3ecb2af0f", [
+      [ "None", "namespacePeanutButter_1_1Utils.html#a6b2ec67188d9920966fe2aa3ecb2af0fa6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "MatchTypesExactly", "namespacePeanutButter_1_1Utils.html#a6b2ec67188d9920966fe2aa3ecb2af0fa17deb458e6716f7e084b71477600e11f", null ],
+      [ "ErrorWhenUnusedArguments", "namespacePeanutButter_1_1Utils.html#a6b2ec67188d9920966fe2aa3ecb2af0fa507b46fdf0086778a9d242d39d86b366", null ],
+      [ "ErrorWhenUnspecifiedParameters", "namespacePeanutButter_1_1Utils.html#a6b2ec67188d9920966fe2aa3ecb2af0faef6a242b6b157e17ca87c78dcbc2f534", null ]
+    ] ],
     [ "Eol", "namespacePeanutButter_1_1Utils.html#a358591e690eb63883915056166e7dfc5", [
       [ "Lf", "namespacePeanutButter_1_1Utils.html#a358591e690eb63883915056166e7dfc5a0fb34a53fbc4b831f349c6cfc98c6054", null ],
       [ "CrLf", "namespacePeanutButter_1_1Utils.html#a358591e690eb63883915056166e7dfc5a679da5b2f3660100766910b51d3938c2", null ]

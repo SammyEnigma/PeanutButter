@@ -1,5 +1,11 @@
 var NAVTREEINDEX18 =
 {
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection-1-g.html#aba9076d4a0c84d19309b8c8a168735cc":[2,0,0,15,0,3,11],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection-1-g.html#ac940737772d31e460037ab9226c31496":[1,0,0,15,0,3,4],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection-1-g.html#ac940737772d31e460037ab9226c31496":[2,0,0,15,0,3,4],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html":[1,0,0,15,0,2],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html":[2,0,0,15,0,2],
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html#a3255ed5a799bb947eaf5814584c9c94e":[1,0,0,15,0,2,1],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html#a3255ed5a799bb947eaf5814584c9c94e":[2,0,0,15,0,2,1],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html#a4c008c4a371544f7b26369c27ab9b116":[1,0,0,15,0,2,0],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1DictionaryWrappingConnectionStringSettingCollection.html#a4c008c4a371544f7b26369c27ab9b116":[2,0,0,15,0,2,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX18 =
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#a9ed8333c66821c48fdc3f4c4b59802f2":[2,0,0,15,0,11,7],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ab7b364d31cae762e44a45988b51ad9da":[1,0,0,15,0,11,5],
 "classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ab7b364d31cae762e44a45988b51ad9da":[2,0,0,15,0,11,5],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ad03b2bc274ca481616f5c308b748e9b2":[1,0,0,15,0,11,3],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ad03b2bc274ca481616f5c308b748e9b2":[2,0,0,15,0,11,3],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#adfbb5de1cc1e6a9b299bc40a6f4c2409":[1,0,0,15,0,11,15],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#adfbb5de1cc1e6a9b299bc40a6f4c2409":[2,0,0,15,0,11,15],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ae84e7a773a4756aaa160d69eed87d700":[1,0,0,15,0,11,4],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ae84e7a773a4756aaa160d69eed87d700":[2,0,0,15,0,11,4],
-"classPeanutButter_1_1Utils_1_1Dictionaries_1_1ValidatingDictionary-2-g.html":[1,0,0,15,0,12]
+"classPeanutButter_1_1Utils_1_1Dictionaries_1_1TransformingDictionary-2-g.html#ad03b2bc274ca481616f5c308b748e9b2":[1,0,0,15,0,11,3]
 };

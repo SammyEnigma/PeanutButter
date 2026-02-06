@@ -159,6 +159,7 @@ var annotated_dup =
             [ "RequestCookieCollectionBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RequestCookieCollectionBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RequestCookieCollectionBuilder" ],
             [ "RouteDataBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RouteDataBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1RouteDataBuilder" ],
             [ "StringMapDerivativeBuilder&lt; TBuilder, TInterface, TConcrete &gt;", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1StringMapDerivativeBuilder-3-g.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1StringMapDerivativeBuilder-3-g" ],
+            [ "TrivialRouter", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1TrivialRouter" ],
             [ "ViewDataDictionaryBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1ViewDataDictionaryBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1ViewDataDictionaryBuilder" ],
             [ "OptionsAccessor", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1OptionsAccessor.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1OptionsAccessor" ],
             [ "WebSocketBuilder", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1WebSocketBuilder.html", "classPeanutButter_1_1TestUtils_1_1AspNetCore_1_1Builders_1_1WebSocketBuilder" ],
@@ -401,6 +402,7 @@ var annotated_dup =
         [ "FilePathResolver", "classPeanutButter_1_1Utils_1_1FilePathResolver.html", "classPeanutButter_1_1Utils_1_1FilePathResolver" ],
         [ "Find", "classPeanutButter_1_1Utils_1_1Find.html", "classPeanutButter_1_1Utils_1_1Find" ],
         [ "FlagExtensions", "classPeanutButter_1_1Utils_1_1FlagExtensions.html", "classPeanutButter_1_1Utils_1_1FlagExtensions" ],
+        [ "FlexiConstructor", "classPeanutButter_1_1Utils_1_1FlexiConstructor.html", "classPeanutButter_1_1Utils_1_1FlexiConstructor" ],
         [ "FluencyExtensions", "classPeanutButter_1_1Utils_1_1FluencyExtensions.html", "classPeanutButter_1_1Utils_1_1FluencyExtensions" ],
         [ "IBackoffStrategy", "interfacePeanutButter_1_1Utils_1_1IBackoffStrategy.html", "interfacePeanutButter_1_1Utils_1_1IBackoffStrategy" ],
         [ "InvalidEnvironmentVariableValue", "classPeanutButter_1_1Utils_1_1InvalidEnvironmentVariableValue.html", "classPeanutButter_1_1Utils_1_1InvalidEnvironmentVariableValue" ],
@@ -495,6 +497,7 @@ var annotated_dup =
       ] ],
       [ "WindowsServiceManagement", "namespacePeanutButter_1_1WindowsServiceManagement.html", [
         [ "Exceptions", "namespacePeanutButter_1_1WindowsServiceManagement_1_1Exceptions.html", [
+          [ "ServiceNotInstalledException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceNotInstalledException.html", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceNotInstalledException" ],
           [ "ServiceOperationException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceOperationException.html", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1ServiceOperationException" ],
           [ "WindowsServiceUtilException", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1WindowsServiceUtilException.html", "classPeanutButter_1_1WindowsServiceManagement_1_1Exceptions_1_1WindowsServiceUtilException" ]
         ] ],
